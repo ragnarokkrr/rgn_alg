@@ -54,6 +54,8 @@ gradle-app.setting
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/jarRepositories.xml
+.idea/**/vcs.xml
 
 # Generated files
 .idea/**/contentModel.xml
@@ -140,4 +142,5 @@ fabric.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
 
