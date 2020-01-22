@@ -1,4 +1,4 @@
-package ragna.lists;
+package ragna.kt.lists;
 
 import ragna.ALists;
 
